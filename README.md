@@ -1,2 +1,2 @@
 # Hello-World
-First JS program! A Hello World!" alert
+First JS program! A "Hello World!" alert
